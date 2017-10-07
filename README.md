@@ -2,7 +2,11 @@
 
 This repository includes AirSwap exchange and token smart contracts. Using [Truffle](http://truffleframework.com/) for development and testing.
 
-We're running an ongoing bug bounty. Details on the AirSwap blog [https://blog.airswap.io/smart-contracts-and-bug-bounty-ad75733eb53f](https://blog.airswap.io/smart-contracts-and-bug-bounty-ad75733eb53f)
+## Bug Bounty
+
+We're running an ongoing bug bounty. Details on the [AirSwap blog](https://blog.airswap.io/smart-contracts-and-bug-bounty-ad75733eb53f). To browse prior submissions, please see [submissions.md](https://github.com/airswap/contracts/blob/master/submissions.md).
+
+## Getting Started
 
 Use Yarn or NPM to install dependencies.
 ```
